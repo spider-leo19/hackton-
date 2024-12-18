@@ -1,8 +1,8 @@
 # hackton-
 proyecto final de curso
 
-##este es la idea de mi proyecto:
+## este es la idea de mi proyecto:
 >recomendacion para cambiar objeto q contamine
 
-##tipo de proyecto:
+## tipo de proyecto:
 >bot de discord
